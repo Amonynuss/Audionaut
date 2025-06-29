@@ -34,7 +34,7 @@
 	langid = {german},
 	doi = {10.1007/978-3-662-60357-4_16-1},
 }
-<pre> 
+</pre>
 
 3. Frequency Response
 <pre> 
@@ -46,7 +46,7 @@
 	urldate = {2025-06-29},
 	langid = {american},
 }
-<pre> 
+</pre> 
 
 4. Dynamic Range
 <pre> 
@@ -61,7 +61,7 @@
 	date = {2004-11-17},
 	langid = {english},
 }
-<pre> 
+</pre>
 
 5. Signal-To-Noise Ratio
 <pre> 
@@ -79,7 +79,7 @@
 	date = {2020-10-20},
 	langid = {english},
 }
-<pre> 
+</pre>
 
 6. Pinna Shape
 <pre> 
@@ -98,7 +98,7 @@
 	date = {1985-01-01},
 	langid = {english},
 }
-<pre> 
+</pre>
 
 7. Ear Canal Resonance
 <pre> 
@@ -117,7 +117,7 @@
 	date = {2014-04},
 	langid = {english},
 }
-<pre> 
+</pre> 
 
 8. Total Harmonic Distorion
 <pre> 
@@ -136,7 +136,7 @@
 	date = {2005-01},
 	langid = {english},
 }
-<pre> 
+</pre>
 
 9. Sensitivity
 <pre> 
@@ -145,4 +145,4 @@
 	url = {https://www.analog.com/en/resources/analog-dialogue/articles/understanding-microphone-sensitivity.html},
 	urldate = {2025-06-29},
 }
-<pre> 
+</pre>
